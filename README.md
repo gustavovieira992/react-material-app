@@ -7,8 +7,8 @@ Projeto com integração do Material UI com ReactJS
 Faça o clone do nosso repositório e utilize os comandos:
 
 ```sh
-$ git clone https://github.com/Rocketseat/blog-react-material-ui.git
-$ cd blog-react-material-ui
+$ git clone https://github.com/gustavovieira992/react-material-app.git
+$ cd react-material-app
 $ npm install
 $ npm start
 ```
